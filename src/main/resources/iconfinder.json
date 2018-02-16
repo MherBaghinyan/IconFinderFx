@@ -1,0 +1,1214 @@
+{
+    "total_count": 11246,
+    "icons": [{
+        "raster_sizes": [{
+            "size_width": 16,
+            "size_height": 16,
+            "formats": [{
+                "preview_url": "https://cdn2.iconfinder.com/data/icons/circle-icons-1/64/computer-16.png",
+                "download_url": "/icons/1055084/formats/png/16/download",
+                "format": "png"
+            }],
+            "size": 16
+        }, {
+            "size_width": 20,
+            "size_height": 20,
+            "formats": [{
+                "preview_url": "https://cdn2.iconfinder.com/data/icons/circle-icons-1/64/computer-20.png",
+                "download_url": "/icons/1055084/formats/png/20/download",
+                "format": "png"
+            }],
+            "size": 20
+        }, {
+            "size_width": 24,
+            "size_height": 24,
+            "formats": [{
+                "preview_url": "https://cdn2.iconfinder.com/data/icons/circle-icons-1/64/computer-24.png",
+                "download_url": "/icons/1055084/formats/png/24/download",
+                "format": "png"
+            }],
+            "size": 24
+        }, {
+            "size_width": 32,
+            "size_height": 32,
+            "formats": [{
+                "preview_url": "https://cdn2.iconfinder.com/data/icons/circle-icons-1/64/computer-32.png",
+                "download_url": "/icons/1055084/formats/png/32/download",
+                "format": "png"
+            }],
+            "size": 32
+        }, {
+            "size_width": 64,
+            "size_height": 64,
+            "formats": [{
+                "preview_url": "https://cdn2.iconfinder.com/data/icons/circle-icons-1/64/computer-64.png",
+                "download_url": "/icons/1055084/formats/png/64/download",
+                "format": "png"
+            }],
+            "size": 64
+        }, {
+            "size_width": 48,
+            "size_height": 48,
+            "formats": [{
+                "preview_url": "https://cdn2.iconfinder.com/data/icons/circle-icons-1/64/computer-48.png",
+                "download_url": "/icons/1055084/formats/png/48/download",
+                "format": "png"
+            }],
+            "size": 48
+        }, {
+            "size_width": 128,
+            "size_height": 128,
+            "formats": [{
+                "preview_url": "https://cdn2.iconfinder.com/data/icons/circle-icons-1/64/computer-128.png",
+                "download_url": "/icons/1055084/formats/png/128/download",
+                "format": "png"
+            }],
+            "size": 128
+        }, {
+            "size_width": 256,
+            "size_height": 256,
+            "formats": [{
+                "preview_url": "https://cdn2.iconfinder.com/data/icons/circle-icons-1/64/computer-256.png",
+                "download_url": "/icons/1055084/formats/png/256/download",
+                "format": "png"
+            }],
+            "size": 256
+        }, {
+            "size_width": 512,
+            "size_height": 512,
+            "formats": [{
+                "preview_url": "https://cdn2.iconfinder.com/data/icons/circle-icons-1/64/computer-512.png",
+                "download_url": "/icons/1055084/formats/png/512/download",
+                "format": "png"
+            }],
+            "size": 512
+        }],
+        "styles": [{
+            "identifier": "flat",
+            "name": "Flat"
+        }],
+        "tags": ["computer", "display", "monitor", "screen"],
+        "icon_id": 1055084,
+        "vector_sizes": [{
+            "size_width": 64,
+            "size_height": 64,
+            "formats": [{
+                "download_url": "/icons/1055084/formats/svg/1487910/download",
+                "format": "svg"
+            }, {
+                "download_url": "/icons/1055084/formats/ai/1487910/download",
+                "format": "ai"
+            }],
+            "target_sizes": [
+                [16, 20, 24, 32, 64, 48, 128, 256, 512]
+            ],
+            "size": 64
+        }],
+        "is_premium": false,
+        "published_at": "2016-03-23T21:04:31.697",
+        "containers": [{
+            "download_url": "/icons/1055084/containers/ico/download",
+            "format": "ico"
+        }, {
+            "download_url": "/icons/1055084/containers/icns/download",
+            "format": "icns"
+        }],
+        "type": "vector",
+        "categories": [{
+            "identifier": "sign-symbol",
+            "name": "Signs & symbols"
+        }, {
+            "identifier": "mixed",
+            "name": "Mixed"
+        }]
+    }, {
+        "raster_sizes": [{
+            "size_width": 16,
+            "size_height": 16,
+            "formats": [{
+                "preview_url": "https://cdn1.iconfinder.com/data/icons/business-and-finance-20/200/vector_65_14-16.png",
+                "download_url": "/icons/473802/formats/png/16/download",
+                "format": "png"
+            }],
+            "size": 16
+        }, {
+            "size_width": 20,
+            "size_height": 20,
+            "formats": [{
+                "preview_url": "https://cdn1.iconfinder.com/data/icons/business-and-finance-20/200/vector_65_14-20.png",
+                "download_url": "/icons/473802/formats/png/20/download",
+                "format": "png"
+            }],
+            "size": 20
+        }, {
+            "size_width": 24,
+            "size_height": 24,
+            "formats": [{
+                "preview_url": "https://cdn1.iconfinder.com/data/icons/business-and-finance-20/200/vector_65_14-24.png",
+                "download_url": "/icons/473802/formats/png/24/download",
+                "format": "png"
+            }],
+            "size": 24
+        }, {
+            "size_width": 32,
+            "size_height": 32,
+            "formats": [{
+                "preview_url": "https://cdn1.iconfinder.com/data/icons/business-and-finance-20/200/vector_65_14-32.png",
+                "download_url": "/icons/473802/formats/png/32/download",
+                "format": "png"
+            }],
+            "size": 32
+        }, {
+            "size_width": 64,
+            "size_height": 64,
+            "formats": [{
+                "preview_url": "https://cdn1.iconfinder.com/data/icons/business-and-finance-20/200/vector_65_14-64.png",
+                "download_url": "/icons/473802/formats/png/64/download",
+                "format": "png"
+            }],
+            "size": 64
+        }, {
+            "size_width": 48,
+            "size_height": 48,
+            "formats": [{
+                "preview_url": "https://cdn1.iconfinder.com/data/icons/business-and-finance-20/200/vector_65_14-48.png",
+                "download_url": "/icons/473802/formats/png/48/download",
+                "format": "png"
+            }],
+            "size": 48
+        }, {
+            "size_width": 128,
+            "size_height": 128,
+            "formats": [{
+                "preview_url": "https://cdn1.iconfinder.com/data/icons/business-and-finance-20/200/vector_65_14-128.png",
+                "download_url": "/icons/473802/formats/png/128/download",
+                "format": "png"
+            }],
+            "size": 128
+        }, {
+            "size_width": 256,
+            "size_height": 256,
+            "formats": [{
+                "preview_url": "https://cdn1.iconfinder.com/data/icons/business-and-finance-20/200/vector_65_14-256.png",
+                "download_url": "/icons/473802/formats/png/256/download",
+                "format": "png"
+            }],
+            "size": 256
+        }, {
+            "size_width": 512,
+            "size_height": 512,
+            "formats": [{
+                "preview_url": "https://cdn1.iconfinder.com/data/icons/business-and-finance-20/200/vector_65_14-512.png",
+                "download_url": "/icons/473802/formats/png/512/download",
+                "format": "png"
+            }],
+            "size": 512
+        }],
+        "styles": [{
+            "identifier": "glyph",
+            "name": "Glyph"
+        }],
+        "tags": ["business", "chart", "computer", "data", "finance", "graph", "statistics"],
+        "icon_id": 473802,
+        "vector_sizes": [{
+            "size_width": 200,
+            "size_height": 200,
+            "formats": [{
+                "download_url": "/icons/473802/formats/svg/882987/download",
+                "format": "svg"
+            }, {
+                "download_url": "/icons/473802/formats/ai/882987/download",
+                "format": "ai"
+            }, {
+                "download_url": "/icons/473802/formats/csh/882987/download",
+                "format": "csh"
+            }],
+            "target_sizes": [
+                [16, 20, 24, 32, 64, 48, 128, 256, 512]
+            ],
+            "size": 200
+        }],
+        "is_premium": false,
+        "published_at": "2015-03-12T14:41:55.357",
+        "containers": [{
+            "download_url": "/icons/473802/containers/ico/download",
+            "format": "ico"
+        }, {
+            "download_url": "/icons/473802/containers/icns/download",
+            "format": "icns"
+        }],
+        "type": "vector",
+        "categories": [{
+            "identifier": "business-finance",
+            "name": "Business & finance"
+        }]
+    }, {
+        "raster_sizes": [{
+            "size_width": 16,
+            "size_height": 16,
+            "formats": [{
+                "preview_url": "https://cdn0.iconfinder.com/data/icons/kameleon-free-pack-rounded/110/Download-Computer-16.png",
+                "download_url": "/icons/379337/formats/png/16/download",
+                "format": "png"
+            }],
+            "size": 16
+        }, {
+            "size_width": 20,
+            "size_height": 20,
+            "formats": [{
+                "preview_url": "https://cdn0.iconfinder.com/data/icons/kameleon-free-pack-rounded/110/Download-Computer-20.png",
+                "download_url": "/icons/379337/formats/png/20/download",
+                "format": "png"
+            }],
+            "size": 20
+        }, {
+            "size_width": 24,
+            "size_height": 24,
+            "formats": [{
+                "preview_url": "https://cdn0.iconfinder.com/data/icons/kameleon-free-pack-rounded/110/Download-Computer-24.png",
+                "download_url": "/icons/379337/formats/png/24/download",
+                "format": "png"
+            }],
+            "size": 24
+        }, {
+            "size_width": 32,
+            "size_height": 32,
+            "formats": [{
+                "preview_url": "https://cdn0.iconfinder.com/data/icons/kameleon-free-pack-rounded/110/Download-Computer-32.png",
+                "download_url": "/icons/379337/formats/png/32/download",
+                "format": "png"
+            }],
+            "size": 32
+        }, {
+            "size_width": 64,
+            "size_height": 64,
+            "formats": [{
+                "preview_url": "https://cdn0.iconfinder.com/data/icons/kameleon-free-pack-rounded/110/Download-Computer-64.png",
+                "download_url": "/icons/379337/formats/png/64/download",
+                "format": "png"
+            }],
+            "size": 64
+        }, {
+            "size_width": 48,
+            "size_height": 48,
+            "formats": [{
+                "preview_url": "https://cdn0.iconfinder.com/data/icons/kameleon-free-pack-rounded/110/Download-Computer-48.png",
+                "download_url": "/icons/379337/formats/png/48/download",
+                "format": "png"
+            }],
+            "size": 48
+        }, {
+            "size_width": 128,
+            "size_height": 128,
+            "formats": [{
+                "preview_url": "https://cdn0.iconfinder.com/data/icons/kameleon-free-pack-rounded/110/Download-Computer-128.png",
+                "download_url": "/icons/379337/formats/png/128/download",
+                "format": "png"
+            }],
+            "size": 128
+        }, {
+            "size_width": 256,
+            "size_height": 256,
+            "formats": [{
+                "preview_url": "https://cdn0.iconfinder.com/data/icons/kameleon-free-pack-rounded/110/Download-Computer-256.png",
+                "download_url": "/icons/379337/formats/png/256/download",
+                "format": "png"
+            }],
+            "size": 256
+        }, {
+            "size_width": 512,
+            "size_height": 512,
+            "formats": [{
+                "preview_url": "https://cdn0.iconfinder.com/data/icons/kameleon-free-pack-rounded/110/Download-Computer-512.png",
+                "download_url": "/icons/379337/formats/png/512/download",
+                "format": "png"
+            }],
+            "size": 512
+        }],
+        "styles": [{
+            "identifier": "flat",
+            "name": "Flat"
+        }],
+        "tags": ["computer", "download"],
+        "icon_id": 379337,
+        "vector_sizes": [{
+            "size_width": 110,
+            "size_height": 110,
+            "formats": [{
+                "download_url": "/icons/379337/formats/svg/779286/download",
+                "format": "svg"
+            }, {
+                "download_url": "/icons/379337/formats/ai/779286/download",
+                "format": "ai"
+            }],
+            "target_sizes": [
+                [16, 20, 24, 32, 64, 48, 128, 256, 512]
+            ],
+            "size": 110
+        }],
+        "is_premium": false,
+        "published_at": "2014-12-08T12:53:33.635",
+        "containers": [{
+            "download_url": "/icons/379337/containers/ico/download",
+            "format": "ico"
+        }, {
+            "download_url": "/icons/379337/containers/icns/download",
+            "format": "icns"
+        }],
+        "type": "vector",
+        "categories": [{
+            "identifier": "avatars-smiley",
+            "name": "Avatars & smileys"
+        }, {
+            "identifier": "mixed",
+            "name": "Mixed"
+        }]
+    }, {
+        "raster_sizes": [{
+            "size_width": 16,
+            "size_height": 16,
+            "formats": [{
+                "preview_url": "https://cdn2.iconfinder.com/data/icons/pittogrammi/142/02-16.png",
+                "download_url": "/icons/171511/formats/png/16/download",
+                "format": "png"
+            }],
+            "size": 16
+        }, {
+            "size_width": 20,
+            "size_height": 20,
+            "formats": [{
+                "preview_url": "https://cdn2.iconfinder.com/data/icons/pittogrammi/142/02-20.png",
+                "download_url": "/icons/171511/formats/png/20/download",
+                "format": "png"
+            }],
+            "size": 20
+        }, {
+            "size_width": 24,
+            "size_height": 24,
+            "formats": [{
+                "preview_url": "https://cdn2.iconfinder.com/data/icons/pittogrammi/142/02-24.png",
+                "download_url": "/icons/171511/formats/png/24/download",
+                "format": "png"
+            }],
+            "size": 24
+        }, {
+            "size_width": 32,
+            "size_height": 32,
+            "formats": [{
+                "preview_url": "https://cdn2.iconfinder.com/data/icons/pittogrammi/142/02-32.png",
+                "download_url": "/icons/171511/formats/png/32/download",
+                "format": "png"
+            }],
+            "size": 32
+        }, {
+            "size_width": 64,
+            "size_height": 64,
+            "formats": [{
+                "preview_url": "https://cdn2.iconfinder.com/data/icons/pittogrammi/142/02-64.png",
+                "download_url": "/icons/171511/formats/png/64/download",
+                "format": "png"
+            }],
+            "size": 64
+        }, {
+            "size_width": 48,
+            "size_height": 48,
+            "formats": [{
+                "preview_url": "https://cdn2.iconfinder.com/data/icons/pittogrammi/142/02-48.png",
+                "download_url": "/icons/171511/formats/png/48/download",
+                "format": "png"
+            }],
+            "size": 48
+        }, {
+            "size_width": 128,
+            "size_height": 128,
+            "formats": [{
+                "preview_url": "https://cdn2.iconfinder.com/data/icons/pittogrammi/142/02-128.png",
+                "download_url": "/icons/171511/formats/png/128/download",
+                "format": "png"
+            }],
+            "size": 128
+        }, {
+            "size_width": 256,
+            "size_height": 256,
+            "formats": [{
+                "preview_url": "https://cdn2.iconfinder.com/data/icons/pittogrammi/142/02-256.png",
+                "download_url": "/icons/171511/formats/png/256/download",
+                "format": "png"
+            }],
+            "size": 256
+        }, {
+            "size_width": 512,
+            "size_height": 512,
+            "formats": [{
+                "preview_url": "https://cdn2.iconfinder.com/data/icons/pittogrammi/142/02-512.png",
+                "download_url": "/icons/171511/formats/png/512/download",
+                "format": "png"
+            }],
+            "size": 512
+        }],
+        "styles": [{
+            "identifier": "glyph",
+            "name": "Glyph"
+        }],
+        "tags": ["computer", "laptop"],
+        "icon_id": 171511,
+        "vector_sizes": [{
+            "size_width": 142,
+            "size_height": 142,
+            "formats": [{
+                "download_url": "/icons/171511/formats/svg/475675/download",
+                "format": "svg"
+            }, {
+                "download_url": "/icons/171511/formats/ai/475675/download",
+                "format": "ai"
+            }, {
+                "download_url": "/icons/171511/formats/csh/475675/download",
+                "format": "csh"
+            }],
+            "target_sizes": [
+                [16, 20, 24, 32, 64, 48, 128, 256, 512]
+            ],
+            "size": 142
+        }],
+        "is_premium": false,
+        "published_at": "2013-06-20T13:07:35.783",
+        "containers": [{
+            "download_url": "/icons/171511/containers/ico/download",
+            "format": "ico"
+        }, {
+            "download_url": "/icons/171511/containers/icns/download",
+            "format": "icns"
+        }],
+        "type": "vector",
+        "categories": [{
+            "identifier": "mixed",
+            "name": "Mixed"
+        }]
+    }, {
+        "raster_sizes": [{
+            "size_width": 16,
+            "size_height": 16,
+            "formats": [{
+                "preview_url": "https://cdn3.iconfinder.com/data/icons/device-icons-2/512/BT_computer-16.png",
+                "download_url": "/icons/905561/formats/png/16/download",
+                "format": "png"
+            }],
+            "size": 16
+        }, {
+            "size_width": 20,
+            "size_height": 20,
+            "formats": [{
+                "preview_url": "https://cdn3.iconfinder.com/data/icons/device-icons-2/512/BT_computer-20.png",
+                "download_url": "/icons/905561/formats/png/20/download",
+                "format": "png"
+            }],
+            "size": 20
+        }, {
+            "size_width": 24,
+            "size_height": 24,
+            "formats": [{
+                "preview_url": "https://cdn3.iconfinder.com/data/icons/device-icons-2/512/BT_computer-24.png",
+                "download_url": "/icons/905561/formats/png/24/download",
+                "format": "png"
+            }],
+            "size": 24
+        }, {
+            "size_width": 32,
+            "size_height": 32,
+            "formats": [{
+                "preview_url": "https://cdn3.iconfinder.com/data/icons/device-icons-2/512/BT_computer-32.png",
+                "download_url": "/icons/905561/formats/png/32/download",
+                "format": "png"
+            }],
+            "size": 32
+        }, {
+            "size_width": 64,
+            "size_height": 64,
+            "formats": [{
+                "preview_url": "https://cdn3.iconfinder.com/data/icons/device-icons-2/512/BT_computer-64.png",
+                "download_url": "/icons/905561/formats/png/64/download",
+                "format": "png"
+            }],
+            "size": 64
+        }, {
+            "size_width": 48,
+            "size_height": 48,
+            "formats": [{
+                "preview_url": "https://cdn3.iconfinder.com/data/icons/device-icons-2/512/BT_computer-48.png",
+                "download_url": "/icons/905561/formats/png/48/download",
+                "format": "png"
+            }],
+            "size": 48
+        }, {
+            "size_width": 128,
+            "size_height": 128,
+            "formats": [{
+                "preview_url": "https://cdn3.iconfinder.com/data/icons/device-icons-2/512/BT_computer-128.png",
+                "download_url": "/icons/905561/formats/png/128/download",
+                "format": "png"
+            }],
+            "size": 128
+        }, {
+            "size_width": 256,
+            "size_height": 256,
+            "formats": [{
+                "preview_url": "https://cdn3.iconfinder.com/data/icons/device-icons-2/512/BT_computer-256.png",
+                "download_url": "/icons/905561/formats/png/256/download",
+                "format": "png"
+            }],
+            "size": 256
+        }, {
+            "size_width": 512,
+            "size_height": 512,
+            "formats": [{
+                "preview_url": "https://cdn3.iconfinder.com/data/icons/device-icons-2/512/BT_computer-512.png",
+                "download_url": "/icons/905561/formats/png/512/download",
+                "format": "png"
+            }],
+            "size": 512
+        }],
+        "styles": [{
+            "identifier": "glyph",
+            "name": "Glyph"
+        }],
+        "tags": ["computer", "desktop", "laptop", "monitor", "pc", "technology"],
+        "icon_id": 905561,
+        "vector_sizes": [{
+            "size_width": 512,
+            "size_height": 512,
+            "formats": [{
+                "download_url": "/icons/905561/formats/svg/1334456/download",
+                "format": "svg"
+            }, {
+                "download_url": "/icons/905561/formats/ai/1334456/download",
+                "format": "ai"
+            }, {
+                "download_url": "/icons/905561/formats/csh/1334456/download",
+                "format": "csh"
+            }],
+            "target_sizes": [
+                [16, 20, 24, 32, 64, 48, 128, 256, 512]
+            ],
+            "size": 512
+        }],
+        "is_premium": false,
+        "published_at": "2016-01-21T10:22:06.373",
+        "containers": [{
+            "download_url": "/icons/905561/containers/ico/download",
+            "format": "ico"
+        }, {
+            "download_url": "/icons/905561/containers/icns/download",
+            "format": "icns"
+        }],
+        "type": "vector",
+        "categories": [{
+            "identifier": "music-multimedia",
+            "name": "Music & multimedia"
+        }, {
+            "identifier": "computer-hardware",
+            "name": "Computer & hardware"
+        }]
+    }, {
+        "raster_sizes": [{
+            "size_width": 16,
+            "size_height": 16,
+            "formats": [{
+                "preview_url": "https://cdn4.iconfinder.com/data/icons/48-bubbles/48/29.Mac-16.png",
+                "download_url": "/icons/290121/formats/png/16/download",
+                "format": "png"
+            }],
+            "size": 16
+        }, {
+            "size_width": 20,
+            "size_height": 20,
+            "formats": [{
+                "preview_url": "https://cdn4.iconfinder.com/data/icons/48-bubbles/48/29.Mac-20.png",
+                "download_url": "/icons/290121/formats/png/20/download",
+                "format": "png"
+            }],
+            "size": 20
+        }, {
+            "size_width": 24,
+            "size_height": 24,
+            "formats": [{
+                "preview_url": "https://cdn4.iconfinder.com/data/icons/48-bubbles/48/29.Mac-24.png",
+                "download_url": "/icons/290121/formats/png/24/download",
+                "format": "png"
+            }],
+            "size": 24
+        }, {
+            "size_width": 32,
+            "size_height": 32,
+            "formats": [{
+                "preview_url": "https://cdn4.iconfinder.com/data/icons/48-bubbles/48/29.Mac-32.png",
+                "download_url": "/icons/290121/formats/png/32/download",
+                "format": "png"
+            }],
+            "size": 32
+        }, {
+            "size_width": 64,
+            "size_height": 64,
+            "formats": [{
+                "preview_url": "https://cdn4.iconfinder.com/data/icons/48-bubbles/48/29.Mac-64.png",
+                "download_url": "/icons/290121/formats/png/64/download",
+                "format": "png"
+            }],
+            "size": 64
+        }, {
+            "size_width": 48,
+            "size_height": 48,
+            "formats": [{
+                "preview_url": "https://cdn4.iconfinder.com/data/icons/48-bubbles/48/29.Mac-48.png",
+                "download_url": "/icons/290121/formats/png/48/download",
+                "format": "png"
+            }],
+            "size": 48
+        }, {
+            "size_width": 128,
+            "size_height": 128,
+            "formats": [{
+                "preview_url": "https://cdn4.iconfinder.com/data/icons/48-bubbles/48/29.Mac-128.png",
+                "download_url": "/icons/290121/formats/png/128/download",
+                "format": "png"
+            }],
+            "size": 128
+        }, {
+            "size_width": 256,
+            "size_height": 256,
+            "formats": [{
+                "preview_url": "https://cdn4.iconfinder.com/data/icons/48-bubbles/48/29.Mac-256.png",
+                "download_url": "/icons/290121/formats/png/256/download",
+                "format": "png"
+            }],
+            "size": 256
+        }, {
+            "size_width": 512,
+            "size_height": 512,
+            "formats": [{
+                "preview_url": "https://cdn4.iconfinder.com/data/icons/48-bubbles/48/29.Mac-512.png",
+                "download_url": "/icons/290121/formats/png/512/download",
+                "format": "png"
+            }],
+            "size": 512
+        }],
+        "styles": [{
+            "identifier": "outline",
+            "name": "Outline"
+        }],
+        "tags": ["computer", "desktop", "laptop", "mac", "monitor", "pc", "screen"],
+        "icon_id": 290121,
+        "vector_sizes": [{
+            "size_width": 48,
+            "size_height": 48,
+            "formats": [{
+                "download_url": "/icons/290121/formats/svg/668297/download",
+                "format": "svg"
+            }, {
+                "download_url": "/icons/290121/formats/ai/668297/download",
+                "format": "ai"
+            }, {
+                "download_url": "/icons/290121/formats/csh/668297/download",
+                "format": "csh"
+            }],
+            "target_sizes": [
+                [16, 20, 24, 32, 64, 48, 128, 256, 512]
+            ],
+            "size": 48
+        }],
+        "is_premium": false,
+        "published_at": "2014-05-27T13:54:53.144",
+        "containers": [{
+            "download_url": "/icons/290121/containers/ico/download",
+            "format": "ico"
+        }, {
+            "download_url": "/icons/290121/containers/icns/download",
+            "format": "icns"
+        }],
+        "type": "vector",
+        "categories": [{
+            "identifier": "ios7-optimized",
+            "name": "iOS7 optimized"
+        }, {
+            "identifier": "mixed",
+            "name": "Mixed"
+        }]
+    }, {
+        "raster_sizes": [{
+            "size_width": 16,
+            "size_height": 16,
+            "formats": [{
+                "preview_url": "https://cdn1.iconfinder.com/data/icons/technology-and-hardware-2/200/vector_66_09-16.png",
+                "download_url": "/icons/473641/formats/png/16/download",
+                "format": "png"
+            }],
+            "size": 16
+        }, {
+            "size_width": 20,
+            "size_height": 20,
+            "formats": [{
+                "preview_url": "https://cdn1.iconfinder.com/data/icons/technology-and-hardware-2/200/vector_66_09-20.png",
+                "download_url": "/icons/473641/formats/png/20/download",
+                "format": "png"
+            }],
+            "size": 20
+        }, {
+            "size_width": 24,
+            "size_height": 24,
+            "formats": [{
+                "preview_url": "https://cdn1.iconfinder.com/data/icons/technology-and-hardware-2/200/vector_66_09-24.png",
+                "download_url": "/icons/473641/formats/png/24/download",
+                "format": "png"
+            }],
+            "size": 24
+        }, {
+            "size_width": 32,
+            "size_height": 32,
+            "formats": [{
+                "preview_url": "https://cdn1.iconfinder.com/data/icons/technology-and-hardware-2/200/vector_66_09-32.png",
+                "download_url": "/icons/473641/formats/png/32/download",
+                "format": "png"
+            }],
+            "size": 32
+        }, {
+            "size_width": 64,
+            "size_height": 64,
+            "formats": [{
+                "preview_url": "https://cdn1.iconfinder.com/data/icons/technology-and-hardware-2/200/vector_66_09-64.png",
+                "download_url": "/icons/473641/formats/png/64/download",
+                "format": "png"
+            }],
+            "size": 64
+        }, {
+            "size_width": 48,
+            "size_height": 48,
+            "formats": [{
+                "preview_url": "https://cdn1.iconfinder.com/data/icons/technology-and-hardware-2/200/vector_66_09-48.png",
+                "download_url": "/icons/473641/formats/png/48/download",
+                "format": "png"
+            }],
+            "size": 48
+        }, {
+            "size_width": 128,
+            "size_height": 128,
+            "formats": [{
+                "preview_url": "https://cdn1.iconfinder.com/data/icons/technology-and-hardware-2/200/vector_66_09-128.png",
+                "download_url": "/icons/473641/formats/png/128/download",
+                "format": "png"
+            }],
+            "size": 128
+        }, {
+            "size_width": 256,
+            "size_height": 256,
+            "formats": [{
+                "preview_url": "https://cdn1.iconfinder.com/data/icons/technology-and-hardware-2/200/vector_66_09-256.png",
+                "download_url": "/icons/473641/formats/png/256/download",
+                "format": "png"
+            }],
+            "size": 256
+        }, {
+            "size_width": 512,
+            "size_height": 512,
+            "formats": [{
+                "preview_url": "https://cdn1.iconfinder.com/data/icons/technology-and-hardware-2/200/vector_66_09-512.png",
+                "download_url": "/icons/473641/formats/png/512/download",
+                "format": "png"
+            }],
+            "size": 512
+        }],
+        "styles": [{
+            "identifier": "glyph",
+            "name": "Glyph"
+        }],
+        "tags": ["communication", "computer", "connection", "internet", "link", "media", "network"],
+        "icon_id": 473641,
+        "vector_sizes": [{
+            "size_width": 200,
+            "size_height": 200,
+            "formats": [{
+                "download_url": "/icons/473641/formats/svg/882826/download",
+                "format": "svg"
+            }, {
+                "download_url": "/icons/473641/formats/ai/882826/download",
+                "format": "ai"
+            }, {
+                "download_url": "/icons/473641/formats/csh/882826/download",
+                "format": "csh"
+            }],
+            "target_sizes": [
+                [16, 20, 24, 32, 64, 48, 128, 256, 512]
+            ],
+            "size": 200
+        }],
+        "is_premium": false,
+        "published_at": "2015-03-12T14:30:53.003",
+        "containers": [{
+            "download_url": "/icons/473641/containers/ico/download",
+            "format": "ico"
+        }, {
+            "download_url": "/icons/473641/containers/icns/download",
+            "format": "icns"
+        }],
+        "type": "vector",
+        "categories": [{
+            "identifier": "computer-hardware",
+            "name": "Computer & hardware"
+        }]
+    }, {
+        "raster_sizes": [{
+            "size_width": 16,
+            "size_height": 16,
+            "formats": [{
+                "preview_url": "https://cdn1.iconfinder.com/data/icons/technology-and-hardware-2/200/vector_66_08-16.png",
+                "download_url": "/icons/473643/formats/png/16/download",
+                "format": "png"
+            }],
+            "size": 16
+        }, {
+            "size_width": 20,
+            "size_height": 20,
+            "formats": [{
+                "preview_url": "https://cdn1.iconfinder.com/data/icons/technology-and-hardware-2/200/vector_66_08-20.png",
+                "download_url": "/icons/473643/formats/png/20/download",
+                "format": "png"
+            }],
+            "size": 20
+        }, {
+            "size_width": 24,
+            "size_height": 24,
+            "formats": [{
+                "preview_url": "https://cdn1.iconfinder.com/data/icons/technology-and-hardware-2/200/vector_66_08-24.png",
+                "download_url": "/icons/473643/formats/png/24/download",
+                "format": "png"
+            }],
+            "size": 24
+        }, {
+            "size_width": 32,
+            "size_height": 32,
+            "formats": [{
+                "preview_url": "https://cdn1.iconfinder.com/data/icons/technology-and-hardware-2/200/vector_66_08-32.png",
+                "download_url": "/icons/473643/formats/png/32/download",
+                "format": "png"
+            }],
+            "size": 32
+        }, {
+            "size_width": 64,
+            "size_height": 64,
+            "formats": [{
+                "preview_url": "https://cdn1.iconfinder.com/data/icons/technology-and-hardware-2/200/vector_66_08-64.png",
+                "download_url": "/icons/473643/formats/png/64/download",
+                "format": "png"
+            }],
+            "size": 64
+        }, {
+            "size_width": 48,
+            "size_height": 48,
+            "formats": [{
+                "preview_url": "https://cdn1.iconfinder.com/data/icons/technology-and-hardware-2/200/vector_66_08-48.png",
+                "download_url": "/icons/473643/formats/png/48/download",
+                "format": "png"
+            }],
+            "size": 48
+        }, {
+            "size_width": 128,
+            "size_height": 128,
+            "formats": [{
+                "preview_url": "https://cdn1.iconfinder.com/data/icons/technology-and-hardware-2/200/vector_66_08-128.png",
+                "download_url": "/icons/473643/formats/png/128/download",
+                "format": "png"
+            }],
+            "size": 128
+        }, {
+            "size_width": 256,
+            "size_height": 256,
+            "formats": [{
+                "preview_url": "https://cdn1.iconfinder.com/data/icons/technology-and-hardware-2/200/vector_66_08-256.png",
+                "download_url": "/icons/473643/formats/png/256/download",
+                "format": "png"
+            }],
+            "size": 256
+        }, {
+            "size_width": 512,
+            "size_height": 512,
+            "formats": [{
+                "preview_url": "https://cdn1.iconfinder.com/data/icons/technology-and-hardware-2/200/vector_66_08-512.png",
+                "download_url": "/icons/473643/formats/png/512/download",
+                "format": "png"
+            }],
+            "size": 512
+        }],
+        "styles": [{
+            "identifier": "glyph",
+            "name": "Glyph"
+        }],
+        "tags": ["computer", "desktop", "device", "hardware", "monitor", "pc", "server"],
+        "icon_id": 473643,
+        "vector_sizes": [{
+            "size_width": 200,
+            "size_height": 200,
+            "formats": [{
+                "download_url": "/icons/473643/formats/svg/882828/download",
+                "format": "svg"
+            }, {
+                "download_url": "/icons/473643/formats/ai/882828/download",
+                "format": "ai"
+            }, {
+                "download_url": "/icons/473643/formats/csh/882828/download",
+                "format": "csh"
+            }],
+            "target_sizes": [
+                [16, 20, 24, 32, 64, 48, 128, 256, 512]
+            ],
+            "size": 200
+        }],
+        "is_premium": false,
+        "published_at": "2015-03-12T14:30:53.003",
+        "containers": [{
+            "download_url": "/icons/473643/containers/ico/download",
+            "format": "ico"
+        }, {
+            "download_url": "/icons/473643/containers/icns/download",
+            "format": "icns"
+        }],
+        "type": "vector",
+        "categories": [{
+            "identifier": "computer-hardware",
+            "name": "Computer & hardware"
+        }]
+    }, {
+        "raster_sizes": [{
+            "size_width": 16,
+            "size_height": 16,
+            "formats": [{
+                "preview_url": "https://cdn3.iconfinder.com/data/icons/10con/512/mac_computer_monitor-16.png",
+                "download_url": "/icons/438792/formats/png/16/download",
+                "format": "png"
+            }],
+            "size": 16
+        }, {
+            "size_width": 20,
+            "size_height": 20,
+            "formats": [{
+                "preview_url": "https://cdn3.iconfinder.com/data/icons/10con/512/mac_computer_monitor-20.png",
+                "download_url": "/icons/438792/formats/png/20/download",
+                "format": "png"
+            }],
+            "size": 20
+        }, {
+            "size_width": 24,
+            "size_height": 24,
+            "formats": [{
+                "preview_url": "https://cdn3.iconfinder.com/data/icons/10con/512/mac_computer_monitor-24.png",
+                "download_url": "/icons/438792/formats/png/24/download",
+                "format": "png"
+            }],
+            "size": 24
+        }, {
+            "size_width": 32,
+            "size_height": 32,
+            "formats": [{
+                "preview_url": "https://cdn3.iconfinder.com/data/icons/10con/512/mac_computer_monitor-32.png",
+                "download_url": "/icons/438792/formats/png/32/download",
+                "format": "png"
+            }],
+            "size": 32
+        }, {
+            "size_width": 64,
+            "size_height": 64,
+            "formats": [{
+                "preview_url": "https://cdn3.iconfinder.com/data/icons/10con/512/mac_computer_monitor-64.png",
+                "download_url": "/icons/438792/formats/png/64/download",
+                "format": "png"
+            }],
+            "size": 64
+        }, {
+            "size_width": 48,
+            "size_height": 48,
+            "formats": [{
+                "preview_url": "https://cdn3.iconfinder.com/data/icons/10con/512/mac_computer_monitor-48.png",
+                "download_url": "/icons/438792/formats/png/48/download",
+                "format": "png"
+            }],
+            "size": 48
+        }, {
+            "size_width": 128,
+            "size_height": 128,
+            "formats": [{
+                "preview_url": "https://cdn3.iconfinder.com/data/icons/10con/512/mac_computer_monitor-128.png",
+                "download_url": "/icons/438792/formats/png/128/download",
+                "format": "png"
+            }],
+            "size": 128
+        }, {
+            "size_width": 256,
+            "size_height": 256,
+            "formats": [{
+                "preview_url": "https://cdn3.iconfinder.com/data/icons/10con/512/mac_computer_monitor-256.png",
+                "download_url": "/icons/438792/formats/png/256/download",
+                "format": "png"
+            }],
+            "size": 256
+        }, {
+            "size_width": 512,
+            "size_height": 512,
+            "formats": [{
+                "preview_url": "https://cdn3.iconfinder.com/data/icons/10con/512/mac_computer_monitor-512.png",
+                "download_url": "/icons/438792/formats/png/512/download",
+                "format": "png"
+            }],
+            "size": 512
+        }],
+        "styles": [{
+            "identifier": "flat",
+            "name": "Flat"
+        }],
+        "tags": ["computer", "mac", "monitor"],
+        "icon_id": 438792,
+        "vector_sizes": [{
+            "size_width": 512,
+            "size_height": 512,
+            "formats": [{
+                "download_url": "/icons/438792/formats/svg/845808/download",
+                "format": "svg"
+            }, {
+                "download_url": "/icons/438792/formats/ai/845808/download",
+                "format": "ai"
+            }],
+            "target_sizes": [
+                [16, 20, 24, 32, 64, 48, 128, 256, 512]
+            ],
+            "size": 512
+        }],
+        "is_premium": false,
+        "published_at": "2015-02-16T16:50:11.637",
+        "containers": [{
+            "download_url": "/icons/438792/containers/ico/download",
+            "format": "ico"
+        }, {
+            "download_url": "/icons/438792/containers/icns/download",
+            "format": "icns"
+        }],
+        "type": "vector",
+        "categories": [{
+            "identifier": "mixed",
+            "name": "Mixed"
+        }]
+    }, {
+        "raster_sizes": [{
+            "size_width": 16,
+            "size_height": 16,
+            "formats": [{
+                "preview_url": "https://cdn3.iconfinder.com/data/icons/social-media-2068/64/_windows-16.png",
+                "download_url": "/icons/1156646/formats/png/16/download",
+                "format": "png"
+            }],
+            "size": 16
+        }, {
+            "size_width": 20,
+            "size_height": 20,
+            "formats": [{
+                "preview_url": "https://cdn3.iconfinder.com/data/icons/social-media-2068/64/_windows-20.png",
+                "download_url": "/icons/1156646/formats/png/20/download",
+                "format": "png"
+            }],
+            "size": 20
+        }, {
+            "size_width": 24,
+            "size_height": 24,
+            "formats": [{
+                "preview_url": "https://cdn3.iconfinder.com/data/icons/social-media-2068/64/_windows-24.png",
+                "download_url": "/icons/1156646/formats/png/24/download",
+                "format": "png"
+            }],
+            "size": 24
+        }, {
+            "size_width": 32,
+            "size_height": 32,
+            "formats": [{
+                "preview_url": "https://cdn3.iconfinder.com/data/icons/social-media-2068/64/_windows-32.png",
+                "download_url": "/icons/1156646/formats/png/32/download",
+                "format": "png"
+            }],
+            "size": 32
+        }, {
+            "size_width": 64,
+            "size_height": 64,
+            "formats": [{
+                "preview_url": "https://cdn3.iconfinder.com/data/icons/social-media-2068/64/_windows-64.png",
+                "download_url": "/icons/1156646/formats/png/64/download",
+                "format": "png"
+            }],
+            "size": 64
+        }, {
+            "size_width": 48,
+            "size_height": 48,
+            "formats": [{
+                "preview_url": "https://cdn3.iconfinder.com/data/icons/social-media-2068/64/_windows-48.png",
+                "download_url": "/icons/1156646/formats/png/48/download",
+                "format": "png"
+            }],
+            "size": 48
+        }, {
+            "size_width": 128,
+            "size_height": 128,
+            "formats": [{
+                "preview_url": "https://cdn3.iconfinder.com/data/icons/social-media-2068/64/_windows-128.png",
+                "download_url": "/icons/1156646/formats/png/128/download",
+                "format": "png"
+            }],
+            "size": 128
+        }, {
+            "size_width": 256,
+            "size_height": 256,
+            "formats": [{
+                "preview_url": "https://cdn3.iconfinder.com/data/icons/social-media-2068/64/_windows-256.png",
+                "download_url": "/icons/1156646/formats/png/256/download",
+                "format": "png"
+            }],
+            "size": 256
+        }, {
+            "size_width": 512,
+            "size_height": 512,
+            "formats": [{
+                "preview_url": "https://cdn3.iconfinder.com/data/icons/social-media-2068/64/_windows-512.png",
+                "download_url": "/icons/1156646/formats/png/512/download",
+                "format": "png"
+            }],
+            "size": 512
+        }],
+        "styles": [{
+            "identifier": "flat",
+            "name": "Flat"
+        }],
+        "tags": ["application", "computer", "logo", "pc", "windows"],
+        "icon_id": 1156646,
+        "vector_sizes": [{
+            "size_width": 64,
+            "size_height": 64,
+            "formats": [{
+                "download_url": "/icons/1156646/formats/svg/1592408/download",
+                "format": "svg"
+            }, {
+                "download_url": "/icons/1156646/formats/ai/1592408/download",
+                "format": "ai"
+            }],
+            "target_sizes": [
+                [16, 20, 24, 32, 64, 48, 128, 256, 512]
+            ],
+            "size": 64
+        }],
+        "is_premium": false,
+        "published_at": "2016-05-10T10:37:53.041",
+        "containers": [{
+            "download_url": "/icons/1156646/containers/ico/download",
+            "format": "ico"
+        }, {
+            "download_url": "/icons/1156646/containers/icns/download",
+            "format": "icns"
+        }],
+        "type": "vector",
+        "categories": [{
+            "identifier": "social-media",
+            "name": "Social media"
+        }]
+    }]
+}

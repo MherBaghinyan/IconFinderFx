@@ -12,7 +12,7 @@ import java.io.IOException;
  */
 public class MementoHttpServiceImpl implements MementoHttpServer {
 
-        public String run(String url) throws IOException {
+        public String call(String url) throws IOException {
 
                 OkHttpClient client = new OkHttpClient();
 
@@ -22,7 +22,6 @@ public class MementoHttpServiceImpl implements MementoHttpServer {
 
                 Response response = client.newCall(request).execute();
                 return response.body().string();
-
         }
 
 }

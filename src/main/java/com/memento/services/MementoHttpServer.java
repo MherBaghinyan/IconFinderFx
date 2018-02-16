@@ -7,5 +7,5 @@ import java.io.IOException;
  */
 public interface MementoHttpServer {
 
-        String run(String url) throws IOException;
+        String call(String url) throws IOException;
 }

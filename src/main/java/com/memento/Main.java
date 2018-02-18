@@ -12,8 +12,6 @@ import javafx.stage.Stage;
 import java.io.IOException;
 
 // https://stackoverflow.com/questions/10143392/javafx-2-and-internationalization
-//Client Id y990aNV9JNd1q4XIVJm6jq5sqQHoZDjU7TBmZGzRAnH8RzR7QonqXAcOYjmcB97w
-// Client Secret LSXALwY89W1Mqe2CVOfCYKeLthxiePFhuwYsiODq4vLPb291U5jRUhVKWQsxUJWh
 public class Main extends Application {
 
     @Override

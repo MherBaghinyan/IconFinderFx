@@ -12,13 +12,6 @@
             prefHeight="400.0" prefWidth="600.0">
     <children>
 
-        <VBox fx:id="iconContainer"
-              alignment="CENTER"
-              spacing="5.0"
-              AnchorPane.leftAnchor="10.0"
-              AnchorPane.rightAnchor="10.0"
-              AnchorPane.topAnchor="50.0" />
-
         <HBox id="HBox" alignment="CENTER" spacing="5.0" AnchorPane.leftAnchor="10.0"
               AnchorPane.rightAnchor="10.0" AnchorPane.topAnchor="10.0">
             <children>
@@ -27,5 +20,14 @@
                 <Button fx:id="searchButton" prefWidth="-1.0" HBox.hgrow="ALWAYS" />
             </children>
         </HBox>
+
+        <Pagination fx:id="pagination"
+                    AnchorPane.leftAnchor="10.0"
+                    AnchorPane.rightAnchor="10.0"
+                    AnchorPane.topAnchor="50.0"
+                    visible="false">
+
+        </Pagination>
+
     </children>
 </AnchorPane>

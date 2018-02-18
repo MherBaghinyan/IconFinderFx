@@ -8,4 +8,6 @@ import java.io.IOException;
 public interface MementoHttpServer {
 
         String call(String url) throws IOException;
+
+        String authenticate() throws IOException;
 }

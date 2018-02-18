@@ -1,19 +1,29 @@
 package com.memento.model;
 
+import java.util.List;
+
 public class ResponseIcon {
 
+    private List<RasterSize> raster_sizes;
+    private int icon_id;
+
+    public int getIcon_id() {
+        return icon_id;
+    }
+
+    public void setIcon_id(int icon_id) {
+        this.icon_id = icon_id;
+    }
+
+    public List<RasterSize> getRaster_sizes() {
+        return raster_sizes;
+    }
+
+    public void setRaster_sizes(List<RasterSize> raster_sizes) {
+        this.raster_sizes = raster_sizes;
+    }
+
     /*
-    {
-        "raster_sizes": [{
-            "size_width": 16,
-            "size_height": 16,
-            "formats": [{
-                "preview_url": "https://cdn2.iconfinder.com/data/icons/circle-icons-1/64/computer-16.png",
-                "download_url": "/icons/1055084/formats/png/16/download",
-                "format": "png"
-            }],
-            "size": 16
-        },
 
     raster_sizes
     styles
@@ -26,5 +36,4 @@ public class ResponseIcon {
     type
     categories
      */
-
 }

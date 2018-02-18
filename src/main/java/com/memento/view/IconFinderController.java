@@ -1,29 +1,26 @@
 package com.memento.view;
 
-import com.memento.model.Icon;
 import com.memento.model.MementoResponseModel;
 import com.memento.services.MementoSearchService;
 import com.memento.services.MementoSearchServiceImpl;
+import javafx.beans.value.ChangeListener;
+import javafx.beans.value.ObservableValue;
 import javafx.collections.FXCollections;
 import javafx.collections.ObservableList;
-import javafx.collections.transformation.FilteredList;
 import javafx.fxml.FXML;
 import javafx.scene.Node;
 import javafx.scene.control.Button;
 import javafx.scene.control.Pagination;
 import javafx.scene.control.TextField;
 import javafx.scene.image.Image;
-import javafx.scene.image.ImageView;
 import javafx.scene.layout.VBox;
-import javafx.util.Callback;
 import org.controlsfx.control.GridView;
 import org.controlsfx.control.cell.ImageGridCell;
 
-import java.util.List;
 import java.util.Optional;
 
 // https://docs.oracle.com/javafx/2/ui_controls/pagination.htm
-public class IconTableController {
+public class IconFinderController {
 
     public static final int PAGE_ITEMS_COUNT = 30;
 
@@ -39,7 +36,7 @@ public class IconTableController {
 
     private MementoSearchService mementoSearchService;
 
-    public IconTableController() {
+    public IconFinderController() {
         mementoSearchService = new MementoSearchServiceImpl();
     }
 
@@ -77,7 +74,7 @@ public class IconTableController {
 
         });
 
-        pagination.setPageFactory(IconTableController.this::createPage);
+        pagination.setPageFactory(IconFinderController.this::createPage);
 
     }
 

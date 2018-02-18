@@ -13,11 +13,12 @@ public class MementoResponseParser {
 
     public MementoResponseModel jsonToModel() throws FileNotFoundException {
 
-        Gson gson = new Gson();
-
+        //TODO read from the file only for the testing, should be removed
         String fileName = "iconfinder.json";
         ClassLoader classLoader = ClassLoader.getSystemClassLoader();
         File file = new File(classLoader.getResource(fileName).getFile());
+
+        Gson gson = new Gson();
 
         return gson.fromJson(new FileReader(file.getAbsolutePath()), MementoResponseModel.class);
     }

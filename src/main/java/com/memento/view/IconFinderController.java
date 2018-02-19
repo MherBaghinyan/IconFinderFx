@@ -1,25 +1,29 @@
 package com.memento.view;
 
+import com.memento.model.Formats;
 import com.memento.model.MementoResponseModel;
 import com.memento.services.MementoSearchService;
 import com.memento.services.MementoSearchServiceImpl;
-import javafx.beans.value.ChangeListener;
-import javafx.beans.value.ObservableValue;
 import javafx.collections.FXCollections;
 import javafx.collections.ObservableList;
+import javafx.concurrent.Task;
 import javafx.fxml.FXML;
 import javafx.scene.Node;
 import javafx.scene.control.Button;
 import javafx.scene.control.Pagination;
 import javafx.scene.control.TextField;
 import javafx.scene.image.Image;
+import javafx.scene.input.KeyCode;
 import javafx.scene.layout.VBox;
 import org.controlsfx.control.GridView;
 import org.controlsfx.control.cell.ImageGridCell;
 
+import java.util.ArrayList;
+import java.util.List;
 import java.util.Optional;
+import java.util.concurrent.ExecutorService;
+import java.util.stream.Collectors;
 
-// https://docs.oracle.com/javafx/2/ui_controls/pagination.htm
 public class IconFinderController {
 
     public static final int PAGE_ITEMS_COUNT = 30;
@@ -28,7 +32,6 @@ public class IconFinderController {
     private TextField searchField;
     @FXML
     private Button searchButton;
-
     @FXML
     private Pagination pagination;
 
@@ -49,33 +52,17 @@ public class IconFinderController {
     @FXML
     private void initialize() {
 
-        // 3. search panel
+        // search panel
         searchButton.setText("Search");
-        searchButton.setOnAction(event -> {
-            String searchText = searchField.getText();
+        searchButton.setOnAction(event -> loadData());
 
-            //TODO pass object with params
-            Optional<MementoResponseModel> icons = mementoSearchService.search(searchText);
-
-            if (icons.isPresent()) {
-
-                MementoResponseModel model = icons.get();
-
-                model.getIcons().stream()
-                        .flatMap(raster -> raster.getRaster_sizes().stream())
-                        .filter(item -> item.getSize() == 64)
-                        .flatMap(formats -> formats.getFormats().stream())
-                        .forEach(url -> masterData.add(new Image(url.getPreview_url())));
-
-                pagination.setPageCount(model.getTotal_count() / PAGE_ITEMS_COUNT);
-                pagination.setVisible(true);
-
+        searchField.setOnKeyPressed(event -> {
+            if (event.getCode().equals(KeyCode.ENTER)) {
+                loadData();
             }
-
         });
 
         pagination.setPageFactory(IconFinderController.this::createPage);
-
     }
 
     private Node createPage(Integer pageIndex) {
@@ -89,6 +76,53 @@ public class IconFinderController {
         iconContainer.getChildren().add(myGrid);
 
         return iconContainer;
+    }
+
+    private void loadData() {
+
+        String searchText = searchField.getText();
+
+        Task<List<String>> task = new Task<List<String>>() {
+            @Override protected List<String> call() throws Exception {
+                updateMessage("Loading images");
+
+                List<String> result = new ArrayList<>();
+
+                //TODO pass object with params
+                Optional<MementoResponseModel> icons = mementoSearchService.search(searchText, 0);
+
+                if (icons.isPresent()) {
+
+                    MementoResponseModel model = icons.get();
+
+                    if (!model.getIcons().isPresent()) {
+                        return new ArrayList<>();
+                    }
+
+                    result = model.getIcons().get().stream()
+                            .flatMap(raster -> raster.getRaster_sizes().stream())
+                            .filter(item -> item.getSize() == 64)
+                            .flatMap(formats -> formats.getFormats().stream())
+                            .map(Formats::getPreview_url).collect(Collectors.toList());
+
+                }
+
+                return result;
+            }
+        };
+
+//        task.setOnRunning((e) -> loadingDialog.show());
+        task.setOnSucceeded(event -> {
+            List<String> data = task.getValue();
+            data.forEach(url -> masterData.add(new Image(url)));
+            pagination.setVisible(true);
+            pagination.setPageCount(masterData.size() / PAGE_ITEMS_COUNT);});
+
+        Thread th = new Thread(task);
+
+        th.setDaemon(true);
+
+        th.start();
     }
 
 }

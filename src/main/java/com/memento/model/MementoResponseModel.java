@@ -1,6 +1,7 @@
 package com.memento.model;
 
 import java.util.List;
+import java.util.Optional;
 
 public class MementoResponseModel {
 
@@ -16,8 +17,8 @@ public class MementoResponseModel {
         this.total_count = total_count;
     }
 
-    public List<ResponseIcon> getIcons() {
-        return icons;
+    public Optional<List<ResponseIcon>> getIcons() {
+        return Optional.of(icons);
     }
 
     public void setIcons(List<ResponseIcon> icons) {

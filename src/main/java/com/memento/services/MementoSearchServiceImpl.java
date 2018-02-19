@@ -1,12 +1,10 @@
 package com.memento.services;
 
-import com.memento.model.Icon;
 import com.memento.model.MementoResponseModel;
 import com.memento.model.MementoResponseParser;
 import com.memento.rest.IconFinderUtils;
 
 import java.io.IOException;
-import java.util.List;
 import java.util.Optional;
 
 public class MementoSearchServiceImpl implements MementoSearchService {
@@ -21,7 +19,7 @@ public class MementoSearchServiceImpl implements MementoSearchService {
     }
 
     @Override
-    public Optional<MementoResponseModel> search(String query) {
+    public Optional<MementoResponseModel> search(String query, int pageNumber) {
 
         try {
             String url = "https://api.iconfinder.com/v3/iconsets?client_id=" +
